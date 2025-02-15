@@ -1,5 +1,3 @@
-// /src/app/page.tsx
-
 import React from 'react';
 import Dashboard from '@/components/Dashboard/Dashboard';
 import SkillsPage from '@/components/Skills/Skills';
@@ -15,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Kalyan Kashaboina - Web Developer & Portfolio",
     description: "Kalyan Kashaboina's Web Developer Portfolio showcasing front-end projects and skills.",
-    url: "https://www.yourwebsite.com",
+    url: "https://portfolio-livid-theta-55.vercel.app/",
     type: "website",
   },
 };

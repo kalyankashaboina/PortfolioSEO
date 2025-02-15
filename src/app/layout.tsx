@@ -21,11 +21,17 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        {children}
-        <Footer />
-      </body>
-    </html>
+      <html lang="en">
+        <head>
+          <meta
+            name="google-site-verification"
+            content="I38EL_WVPO6tcA1cmsmLFvAZ9Szco0VLvjph8OxIFcA"
+          />
+        </head>
+        <body>
+          {children}
+          <Footer />
+        </body>
+      </html>
   );
 }
