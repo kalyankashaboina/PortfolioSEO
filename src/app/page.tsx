@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Kalyan Kashaboina - Web Developer & Portfolio",
     description: "Kalyan Kashaboina's Web Developer Portfolio showcasing front-end projects and skills.",
-    url: "https://portfolio-livid-theta-55.vercel.app/",
+    url: "https://portfolio-git-master-kalyankashaboinas-projects.vercel.app/",
     type: "website",
   },
 };

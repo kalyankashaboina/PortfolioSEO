@@ -23,10 +23,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
       <html lang="en">
         <head>
-          <meta
-            name="google-site-verification"
-            content="I38EL_WVPO6tcA1cmsmLFvAZ9Szco0VLvjph8OxIFcA"
-          />
+        <meta name="google-site-verification" content="I38EL_WVPO6tcA1cmsmLFvAZ9Szco0VLvjph8OxIFcA" />
         </head>
         <body>
           {children}
