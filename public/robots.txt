@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/  # You can block access to specific parts of your site like API routes
+Allow: /        # Allow crawling the entire site
+Sitemap: https://www.yourwebsite.com/sitemap.xml
