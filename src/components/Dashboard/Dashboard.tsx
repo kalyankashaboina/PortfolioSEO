@@ -14,7 +14,7 @@ const Dashboard: React.FC = () => {
           back-end systems.
         </p>
       </div>
-
+      {/* Enhance the css of the image-box and testbox class in Dashboard.css file. */}
       <div className="image-box">
       <Image
         src="/images/kalyan1.jpg" 
