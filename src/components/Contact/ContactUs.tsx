@@ -15,7 +15,7 @@ const ContactUsPage: React.FC = () => {
 
         <div className="contact-links">
           <a
-            href="https://www.linkedin.com/in/kashaboina-kalyan-308495284/"
+            href="https://www.linkedin.com/in/kalyan-dev-a82685350/"
             className="contact-link linkedin"
             target="_blank"
             rel="noopener noreferrer"
