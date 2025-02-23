@@ -33,7 +33,7 @@ const ContactUsPage: React.FC = () => {
             GitHub
           </a>
           <a
-            href="mailto:kalyankashaboina007.com"
+            href="mailto:kalyandevmern.com"
             className="contact-link email"
           >
             <FaEnvelope className="contact-icon" />
